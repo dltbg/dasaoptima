@@ -1,0 +1,19 @@
+@import "vendor/bootstrap/css/bootstrap.min.css";
+@import "vendor/fontawesome-free/css/all.min.css";
+@import "vendor/animate/animate.compat.css";
+@import "vendor/simple-line-icons/css/simple-line-icons.min.css";
+@import "vendor/owl.carousel/assets/owl.carousel.min.css";
+@import "vendor/owl.carousel/assets/owl.theme.default.min.css";
+@import "vendor/magnific-popup/magnific-popup.min.css";
+
+@import "template/theme.css";
+@import "template/theme-elements.css";
+@import "template/theme-blog.css";
+@import "template/theme-shop.css";
+
+@import "template/bc-2.css";
+
+@import "template/skin-bc-2.css";
+
+@import "template/custom.css";
+
