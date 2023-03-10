@@ -1,4 +1,5 @@
 @extends('layouts.master')
+@section('menu-services', 'active')
 @section('page-content')
     <div role="main" class="main">
 
