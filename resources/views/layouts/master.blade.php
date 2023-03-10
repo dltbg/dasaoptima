@@ -118,25 +118,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="header-column header-column-search justify-content-center align-items-end">
-                        <div class="header-nav-features">
-                            <div class="header-nav-feature header-nav-features-search d-inline-flex">
-                                <a href="#" class="header-nav-features-toggle" data-focus="headerSearch">
-                                    <i class="fas fa-search header-nav-top-icon text-color-secondary text-3"></i>
-                                </a>
-                                <div class="header-nav-features-dropdown header-nav-features-dropdown-mobile-fixed border-radius-0" id="headerTopSearchDropdown">
-                                    <form role="search" action="page-search-results.html" method="get">
-                                        <div class="simple-search input-group">
-                                            <input class="form-control text-1" id="headerSearch" name="q" type="search" value="" placeholder="Search...">
-                                            <button class="btn" type="submit">
-                                                <i class="fa fa-search header-nav-top-icon text-color-secondary"></i>
-                                            </button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -149,7 +130,6 @@
             <div class="row py-5 custom-row-footer">
                 <div class="col-12 col-sm-12 col-lg-3 d-flex align-items-start flex-column footer-column custom-footer-column-logo">
                     <img width="123" src="{{asset('/image/logo-2.png')}}" alt="Logo Footer">
-                    <p class="d-block m-0 text-color-default">Lorem ipsum dolor sit amet, conse adipiscing elit. Nunc viverra lorem ipsum erat orci, ac auctor.</p>
                 </div>
                 <div class="col-12 col-sm-12 col-lg-9 footer-column">
                     <div class="d-flex align-items-start align-sm-items-end justify-content-between flex-column h-100 mt-4 mt-sm-0">
