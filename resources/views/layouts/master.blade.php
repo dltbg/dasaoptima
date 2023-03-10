@@ -8,13 +8,13 @@
 
     <title>Dasa Optima Consulting</title>
 
-    <meta name="keywords" content="WebSite Template" />
-    <meta name="description" content="Porto - Multipurpose Website Template">
-    <meta name="author" content="okler.net">
+    <meta name="keywords" content="Dasa Optima Consulting" />
+    <meta name="description" content="Dasa Optima Consulting and Tax Services">
+    <meta name="author" content="Dasa Optima">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="shortcut icon" href="{{asset('image/logo-2.png')}}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{{asset('image/logo-2.png')}}">
 
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
@@ -93,22 +93,22 @@
                                     <nav class="collapse">
                                         <ul class="nav nav-pills" id="mainNav">
                                             <li class="dropdown-secondary">
-                                                <a class="nav-link active" href="{{ route('home') }}">
+                                                <a class="nav-link @yield('menu-home')" href="{{ route('home') }}">
                                                     Home
                                                 </a>
                                             </li>
                                             <li class="dropdown-secondary">
-                                                <a class="nav-link" href="{{route('about-us')}}">
+                                                <a class="nav-link @yield('menu-about-us')" href="{{route('about-us')}}">
                                                     About Us
                                                 </a>
                                             </li>
                                             <li class="dropdown-secondary">
-                                                <a class="nav-link" href="{{ route('services') }}">
+                                                <a class="nav-link @yield('menu-services')" href="{{ route('services') }}">
                                                     Services
                                                 </a>
                                             </li>
                                             <li class="dropdown-secondary">
-                                                <a class="nav-link" href="{{ route('contact-us') }}">
+                                                <a class="nav-link @yield('menu-contact-us')" href="{{ route('contact-us') }}">
                                                     Contact Us
                                                 </a>
                                             </li>

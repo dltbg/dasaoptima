@@ -1,4 +1,5 @@
 @extends('layouts.master')
+@section('menu-contact-us', 'active')
 @section('page-content')
     <div class="container py-5">
         <div class="row">
