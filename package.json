@@ -7,6 +7,10 @@
     "devDependencies": {
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.2",
-        "vite": "^4.0.0"
+        "vite": "^4.0.0",
+        "vite-plugin-require-transform": "^1.0.9"
+    },
+    "dependencies": {
+        "glob": "^9.2.1"
     }
 }
