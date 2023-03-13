@@ -18,20 +18,29 @@
                     </div>
                     <div class="row">
                         <div class="form-group col-lg-6">
-                            <input type="text" placeholder="Your Name" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" required>
+                            <input type="text" placeholder="Your First Name" value="" data-msg-required="Please enter your First name." maxlength="100" class="form-control" name="first_ame" required>
                         </div>
                         <div class="form-group col-lg-6">
-                            <input type="email" placeholder="Your E-mail" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" required>
+                            <input type="text" placeholder="Your Last Name" value="" data-msg-required="Please enter your Last name." maxlength="100" class="form-control" name="last_name" required>
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <input type="text" placeholder="Company Name" value="" data-msg-required="Please enter your Company Name." maxlength="100" class="form-control" name="company_name">
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <input type="text" placeholder="Job Title" value="" data-msg-required="Please enter your Job Title." maxlength="100" class="form-control" name="job_title">
+                        </div>
+                        <div class="form-group col-lg-12">
+                            <input type="email" placeholder="Business Email" value="" data-msg-required="Please enter your Business Email." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="business_email">
                         </div>
                     </div>
                     <div class="row">
                         <div class="form-group col">
-                            <input placeholder="Subject" type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" required>
+                            <input placeholder="Country" type="text" value="" data-msg-required="Please enter the country" maxlength="100" class="form-control" name="country" required>
                         </div>
                     </div>
                     <div class="row">
                         <div class="form-group col">
-                            <textarea placeholder="Your Message..." maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" required></textarea>
+                            <textarea placeholder="How Can We Help?" maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" required></textarea>
                         </div>
                     </div>
                     <div class="row">
