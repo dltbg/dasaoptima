@@ -20,6 +20,11 @@
         </section>
 
         <div class="container py-5">
+            <div class="row align-items-center">
+                <h4 class="text-color-secondary font-weight-bold text-capitalize mb-4 custom-letter-spacing-2 custom-text-1 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Industry</h4>
+                <p class="font-weight-light mb-4" style="font-size: 15px">Throughout a decade and more of experience, we have served a wide range of national and multinational clients from key sectors such as:
+                </p>
+            </div>
             <div class="row align-items-center gy-5">
                 <div class="col-lg-1"></div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
