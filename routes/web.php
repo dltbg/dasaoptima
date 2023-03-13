@@ -28,3 +28,7 @@ Route::get('/services', function () {
 Route::get('/contact-us', function () {
     return view('contact-us');
 })->name('contact-us');
+
+Route::get('/career', function () {
+    return view('career');
+})->name('career');

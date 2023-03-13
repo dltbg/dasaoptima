@@ -108,6 +108,11 @@
                                                 </a>
                                             </li>
                                             <li class="dropdown-secondary">
+                                                <a class="nav-link @yield('menu-career')" href="{{ route('career') }}">
+                                                    Career
+                                                </a>
+                                            </li>
+                                            <li class="dropdown-secondary">
                                                 <a class="nav-link @yield('menu-contact-us')" href="{{ route('contact-us') }}">
                                                     Contact Us
                                                 </a>
@@ -195,6 +200,11 @@
                                 <li class="dropdown-secondary">
                                     <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="{{route('services')}}">
                                         Services
+                                    </a>
+                                </li>
+                                <li class="dropdown-secondary">
+                                    <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="{{route('career')}}">
+                                        Career
                                     </a>
                                 </li>
                                 <li class="dropdown-secondary">
