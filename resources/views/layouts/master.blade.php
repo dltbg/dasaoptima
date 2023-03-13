@@ -133,6 +133,9 @@
             <div class="row py-5 custom-row-footer">
                 <div class="col-12 col-sm-12 col-lg-3 d-flex align-items-start flex-column footer-column custom-footer-column-logo">
                     <img width="123" src="{{asset('/image/logo-2.png')}}" alt="Logo Footer">
+                    <p class="d-block m-0 text-color-default">The CEO Building 12th Floor<br>
+                        Jl TB Simatupang No 18C<br>
+                        DKI Jakarta, Indonesia 12430</p>
                 </div>
                 <div class="col-12 col-sm-12 col-lg-9 footer-column">
                     <div class="d-flex align-items-start align-sm-items-end justify-content-between flex-column h-100 mt-4 mt-sm-0">
