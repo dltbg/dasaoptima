@@ -9,7 +9,7 @@
     <title>Dasa Optima Consulting</title>
 
     <meta name="keywords" content="Dasa Optima Consulting" />
-    <meta name="description" content="Dasa Optima Consulting and Tax Services">
+    <meta name="description" content="Dasa Optima Consulting is run by highly experienced tax practitioners who hold Brevet C - Indonesia’s highest tax consultant license, and own tax attorney licenses at the Indonesian tax court. Prior to our company’s establishment, most of our professionals worked for Big Four Consultancy Firms.">
     <meta name="author" content="Dasa Optima">
 
     <!-- Favicon -->
