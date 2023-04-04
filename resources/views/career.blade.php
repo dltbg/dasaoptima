@@ -12,7 +12,7 @@
                     <div class="col-md-4 order-1 order-md-2 align-self-center">
                         <ul class="breadcrumb d-block text-md-end appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
                             <li><a href="#">Home</a></li>
-                            <li class="active">Services</li>
+                            <li class="active">Career</li>
                         </ul>
                     </div>
                 </div>
