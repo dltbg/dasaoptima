@@ -32,3 +32,5 @@ Route::get('/contact-us', function () {
 Route::get('/career', function () {
     return view('career');
 })->name('career');
+
+Route::post('/send-email', [\App\Http\Controllers\ContactController::class, 'sendNotification'])->name('send-email');
