@@ -127,31 +127,31 @@
                 <div class="col-lg-1"></div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Fast Moving Consumer Good (FMCG)</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 45px">Fast Moving Consumer Good (FMCG)</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1604719312566-8912e9227c6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" class="img-fluid border-radius-0" alt="FMCG">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="150">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Automotive</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Automotive</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1567789884554-0b844b597180?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" class="img-fluid border-radius-0" alt="Automotive">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Financial Service</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Financial Service</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1518186233392-c232efbf2373?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" class="img-fluid border-radius-0" alt="FMCG">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="250">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Energy & Resource</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Energy & Resource</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1487875961445-47a00398c267?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" class="img-fluid border-radius-0" alt="FMCG">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Chemicals</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Chemicals</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1532187643603-ba119ca4109e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" class="img-fluid border-radius-0" alt="FMCG">
                     </div>
                 </div>
@@ -160,31 +160,31 @@
                 <div class="col-lg-1"></div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="350">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Electronics</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Electronics</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" class="img-fluid border-radius-0" alt="">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Tourism & Hospitality</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Tourism & Hospitality</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" class="img-fluid border-radius-0" alt="">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="450">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Plantation</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Plantation</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1602020277972-99978250c8bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" class="img-fluid border-radius-0" alt="">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Construction</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Construction</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1591588582259-e675bd2e6088?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" class="img-fluid border-radius-0" alt="">
                     </div>
                 </div>
                 <div class="col-lg-2 pt-4 pt-lg-0">
                     <div class="card border-radius-0 box-shadow-1 border-0 me-lg-3 p-3 mb-3 mb-lg-0 position-relative appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="550">
-                        <div class="line-height-2 mb-1" style="font-size: 10px; height: 25px">Real Estate</div>
+                        <div class="line-height-2 mb-1 text-center" style="font-size: 13px; height: 40px">Real Estate</div>
                         <img style="object-fit: cover; aspect-ratio: 1/1; height: 125px" src="https://images.unsplash.com/photo-1555636222-cae831e670b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1477&q=80" class="img-fluid border-radius-0" alt="">
                     </div>
                 </div>
