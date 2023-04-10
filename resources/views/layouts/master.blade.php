@@ -163,7 +163,7 @@
 												<span>
 													<img width="19" height="18" src="img/demos/business-consulting-2/icons/calendar.svg" alt="Calendar">
 												</span>
-												Mon - Sat 9:00am - 6:00pm / Sunday - CLOSED
+												Mon - Fri 9:00am - 6:00pm / Sat - Sun - CLOSED
 											</span>
                                 </li>
                             </ul>
