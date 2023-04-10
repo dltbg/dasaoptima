@@ -1,5 +1,11 @@
 @extends('layouts.master')
 @section('menu-about-us', 'active')
+@section('page-meta')
+    <title>About Us</title>
+    <meta name="keywords" content="About Us" />
+    <meta name="description" content="Dasa Optima Consulting can be the new tax advisor you need to support your growth and success. Whether you’re looking to strengthen your business continuity, enhance your tax compliance, or secure your tax dispute resolution.">
+    <meta name="author" content="Dasa Optima">
+@endsection
 @section('page-content')
         <div role="main" class="main">
 

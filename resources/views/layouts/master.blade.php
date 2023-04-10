@@ -6,11 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Dasa Optima Consulting</title>
-
-    <meta name="keywords" content="Dasa Optima Consulting" />
-    <meta name="description" content="Dasa Optima Consulting is run by highly experienced tax practitioners who hold Brevet C - Indonesia’s highest tax consultant license, and own tax attorney licenses at the Indonesian tax court. Prior to our company’s establishment, most of our professionals worked for Big Four Consultancy Firms.">
-    <meta name="author" content="Dasa Optima">
+    @yield('page-meta')
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{asset('image/logo-2.png')}}" type="image/x-icon" />

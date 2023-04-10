@@ -1,5 +1,11 @@
 @extends('layouts.master')
 @section('menu-career', 'active')
+@section('page-meta')
+    <title>Career</title>
+    <meta name="keywords" content="Dasa Optima Consulting" />
+    <meta name="description" content="Explore Dasa Optima Consulting’s career opportunities, and you’ll discover a place where talent thrives.">
+    <meta name="author" content="Dasa Optima">
+@endsection
 @section('page-content')
     <div role="main" class="main">
 

@@ -1,5 +1,11 @@
 @extends('layouts.master')
 @section('menu-home', 'active')
+@section('page-meta')
+    <title>Dasa Optima Consulting</title>
+    <meta name="keywords" content="Dasa Optima Consulting" />
+    <meta name="description" content="Dasa Optima Consulting is run by highly experienced tax practitioners who hold Brevet C - Indonesia’s highest tax consultant license, and own tax attorney licenses at the Indonesian tax court. Prior to our company’s establishment, most of our professionals worked for Big Four Consultancy Firms.">
+    <meta name="author" content="Dasa Optima">
+@endsection
 @section('page-content')
     <div role="main" class="main">
         <div class="owl-carousel owl-carousel-light owl-carousel-light-init-fadeIn owl-theme manual dots-inside dots-horizontal-center show-dots-hover show-dots-xs show-dots-sm show-dots-md nav-style-1 nav-inside nav-inside-plus nav-dark nav-lg nav-font-size-lg show-nav-hover bg-color-quaternary custom-slider-container mb-0" data-plugin-options="{'autoplay': true, 'autoplayTimeout': 7000}" data-dynamic-height="['991px','991px','991px','750px','750px']" style="height: 991px;">
