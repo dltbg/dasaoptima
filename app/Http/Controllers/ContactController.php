@@ -29,7 +29,7 @@ class ContactController extends Controller
                 throw new InvalidArgumentException($validator->errors());
             }
 
-            Mail::to('daregar@dasaoptima.com')->send(new ContactInformationMail($request->all()));
+            Mail::to('dasaoptima@gmail.com')->send(new ContactInformationMail($request->all()));
 
             return response()->json(['response' => 'success']);
         } catch (\Throwable $th) {
