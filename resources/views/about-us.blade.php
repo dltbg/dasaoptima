@@ -39,7 +39,7 @@
                 <div class="row py-3 mt-2">
 
                     <div class="col-lg-6 p-0">
-                        <section class="section section-height-3 bg-color-primary-darken-1 h-100 m-0 border-0">
+                        <section class="section section-height-3 h-100 m-0 border-0" style="background-color: #1c2584">
                             <div class="row justify-content-end m-0">
                                 <div class="col-half-section col-half-section-right text-color-light">
                                     <p class="text-uppercase font-weight-semibold mb-1 text-color-light appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-secondary ms-0 me-3 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200"></span></p>
@@ -53,7 +53,7 @@
                     </div>
 
                     <div class="col-lg-6 p-0">
-                        <section class="section section-height-3 bg-color-primary h-100 m-0 border-0">
+                        <section class="section section-height-3 h-100 m-0 border-0" style="background-color: #232ea1">
                             <div class="row m-0">
                                 <div class="col-half-section text-color-light text-end">
                                     <p class="text-uppercase font-weight-semibold mb-1 text-color-light appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="100"><span class="line-pre-title me-0 ms-3 bg-color-secondary appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200"></span></p>
