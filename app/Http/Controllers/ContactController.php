@@ -33,7 +33,7 @@ class ContactController extends Controller
 
             return response()->json(['response' => 'success']);
         } catch (\Throwable $th) {
-            return response()->json(['response' => 'error'], 400);
+            return response()->json($th->getMessage(), 400);
         }
     }
 }
