@@ -1,5 +1,11 @@
 @extends('layouts.master')
 @section('menu-services', 'active')
+@section('page-meta')
+    <title>Services</title>
+    <meta name="keywords" content="Consulting Services" />
+    <meta name="description" content="Throughout a decade and more of experience, we have served a wide range of national and multinational clients from key sectors.">
+    <meta name="author" content="Dasa Optima">
+@endsection
 @section('page-content')
     <div role="main" class="main">
 

@@ -1,5 +1,11 @@
 @extends('layouts.master')
 @section('menu-contact-us', 'active')
+@section('page-meta')
+    <title>Contact Us</title>
+    <meta name="keywords" content="Contact Us" />
+    <meta name="description" content="We are gladly welcoming you to contact us for more information that you need to grow your business!">
+    <meta name="author" content="Dasa Optima">
+@endsection
 @section('page-content')
     <div class="container py-5">
         <div class="row">
