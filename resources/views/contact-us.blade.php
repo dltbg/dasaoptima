@@ -5,11 +5,26 @@
     <meta name="keywords" content="Contact Us" />
     <meta name="description" content="We are gladly welcoming you to contact us for more information that you need to grow your business!">
     <meta name="author" content="Dasa Optima">
+    <style>
+        @media (max-width : 425px) {
+            .maps {
+                height: 600px;
+                margin-bottom: 10px;
+            }
+        }
+    </style>
 @endsection
 @section('page-content')
     <div class="container py-5">
         <div class="row">
-            <div class="col">
+            <div class="col-12 col-md-6 maps">
+                <iframe src="https://storage.googleapis.com/maps-solutions-fmc5b3bxkt/locator-plus/2pps/locator-plus.html"
+                        width="100%" height="100%"
+                        style="border:2px;"
+                        loading="lazy">
+                </iframe>
+            </div>
+            <div class="col-12 col-md-6">
                 <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>Get in Touch</p>
                 <h2 class="text-color-secondary font-weight-bold mb-3 text-capitalize mb-2 custom-letter-spacing-2 custom-text-1 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Send Us a Message</h2>
 
