@@ -89,7 +89,7 @@
                         <div class="header-row">
                             <div class="header-logo">
                                 <a href="#">
-                                    <img alt="Porto" width="123" src="{{asset('/image/logo-2.png')}}">
+                                    <img alt="dasaoptima" style="mix-blend-mode: overlay !important;" width="123"  src="{{asset('/image/logo-2.png')}}">
                                 </a>
                             </div>
                         </div>
