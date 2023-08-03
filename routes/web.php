@@ -29,6 +29,14 @@ Route::get('/contact-us', function () {
     return view('contact-us');
 })->name('contact-us');
 
+Route::get('/blog-news', function () {
+    return view('blog.blog-news');
+})->name('blog-news');
+
+Route::get('/blog-news/brief-overview-of-mof-regulation-no-66-2023', function () {
+    return view('blog.post');
+})->name('blog-post');
+
 Route::get('/career', function () {
     return view('career');
 })->name('career');

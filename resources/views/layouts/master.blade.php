@@ -102,7 +102,7 @@
                                             <div>
                                                 <div class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary text-uppercase justify-content-start mb-2 mb-lg-0">
                                                         <span class="me-2">
-                                                            <img width="15" height="18" src="img/demos/business-consulting-3/icons/phone.svg" alt="Phone">
+                                                            <img width="15" height="18" src="/img/demos/business-consulting-3/icons/phone.svg" alt="Phone">
                                                         </span>
                                                         <a class="text-color-secondary text-color-hover-primary text-decoration-none" href="tel:021-29552686">021 2955 2686</a>
                                                 </div>
@@ -110,7 +110,7 @@
                                             <div>
                                                 <div class="footer-nav-email px-0 font-weight-normal d-flex align-items-center justify-content-start mb-2 mb-lg-0">
                                                     <span class="me-2">
-                                                        <img width="15" height="18" src="img/demos/business-consulting-2/icons/mail.svg" alt="Mail">
+                                                        <img width="15" height="18" src="/img/demos/business-consulting-2/icons/mail.svg" alt="Mail">
                                                     </span>
                                                     <a class="text-color-secondary text-color-hover-primary text-decoration-none" href="mailto:business@portotheme.com"> info@dasaoptima.com</a>
 											    </div>
@@ -141,6 +141,11 @@
                                             <li class="dropdown-secondary">
                                                 <a class="nav-link @yield('menu-services')" href="{{ route('services') }}">
                                                     Services
+                                                </a>
+                                            </li>
+                                            <li class="dropdown-secondary">
+                                                <a class="nav-link @yield('blog')" href="{{ route('blog-news') }}">
+                                                    Blog & News
                                                 </a>
                                             </li>
                                             <li class="dropdown-secondary">
@@ -187,7 +192,7 @@
                                         <div class="mb-2">
                                             <span class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary font-weight-semibold text-uppercase justify-content-start mb-2 mb-lg-0">
                                                     <span>
-                                                        <img width="15" height="18" src="img/demos/business-consulting-3/icons/phone.svg" alt="Phone">
+                                                        <img width="15" height="18" src="/img/demos/business-consulting-3/icons/phone.svg" alt="Phone">
                                                     </span>
                                                     <a class="font-weight-bold text-color-secondary text-color-hover-primary text-decoration-none" href="tel:021-29552686">021 2955 2686</a>
                                             </span>
@@ -195,7 +200,7 @@
                                         <div class="mb-2">
                                             <span class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary font-weight-semibold text-uppercase justify-content-start mb-2 mb-lg-0">
                                                     <span>
-                                                        <img width="15" height="18" src="img/demos/business-consulting-2/icons/phone.svg" alt="Phone">
+                                                        <img width="15" height="18" src="/img/demos/business-consulting-2/icons/phone.svg" alt="Phone">
                                                     </span>
                                                     <a class="font-weight-bold text-color-secondary text-color-hover-primary text-decoration-none" href="https://wa.link/as17vp">+62 813 8700 2008</a>
                                             </span>
@@ -203,7 +208,7 @@
                                         <div>
                                             <span class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary font-weight-semibold text-uppercase justify-content-start mb-2 mb-lg-0">
                                                     <span>
-                                                        <img width="15" height="18" src="img/demos/business-consulting-2/icons/phone.svg" alt="Phone">
+                                                        <img width="15" height="18" src="/img/demos/business-consulting-2/icons/phone.svg" alt="Phone">
                                                     </span>
                                                     <a class="font-weight-bold text-color-secondary text-color-hover-primary text-decoration-none" href="https://wa.link/5qvnvc">+62 813 7733 2292</a>
                                             </span>
@@ -211,13 +216,13 @@
                                     </div>
                                     <span class="footer-nav-email px-0 font-weight-normal d-flex align-items-center justify-content-start mb-2 mb-lg-0">
 												<span>
-													<img width="25" height="18" src="img/demos/business-consulting-2/icons/mail.svg" alt="Mail">
+													<img width="25" height="18" src="/img/demos/business-consulting-2/icons/mail.svg" alt="Mail">
 												</span>
 												<a class="text-color-secondary text-color-hover-primary text-decoration-none" href="mailto:business@portotheme.com"> info@dasaoptima.com</a>
 											</span>
                                     <span class="footer-nav-opening-hours px-0 font-weight-normal d-flex align-items-center text-color-secondary justify-content-start mb-2 mb-lg-0">
 												<span>
-													<img width="19" height="18" src="img/demos/business-consulting-2/icons/calendar.svg" alt="Calendar">
+													<img width="19" height="18" src="/img/demos/business-consulting-2/icons/calendar.svg" alt="Calendar">
 												</span>
 												Mon - Fri 9:00am - 6:00pm / Sat - Sun - CLOSED
 											</span>
