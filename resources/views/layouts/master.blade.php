@@ -25,6 +25,18 @@
     <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" integrity="sha512-3j3VU6WC5rPQB4Ld1jnLV7Kd5xr+cq9avvhwqzbH/taCRNURoeEpoPBK9pDyeukwSxwRPJ8fDgvYXd6SkaZ2TA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.appear/0.4.1/jquery.appear.min.js" integrity="sha512-vYYoQJKYzaJQaOaYxaJhhmxikOJ2SEgHwmCNa0EMP0aRr7opdt4HHrorAwnCyPm8bdW/JBApIomo85YaBX81zA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <style>
+        @media (max-width: 425px) {
+            .contact-information {
+                display: none !important;
+            }
+        }
+        @media (max-width: 768px) {
+            .contact-information {
+                width: 50px !important;
+            }
+        }
+    </style>
 
 </head>
 
@@ -73,15 +85,43 @@
 {{--            </div>--}}
             <div class="header-container container bg-color-light">
                 <div class="header-row">
-                    <div class="header-column header-column-logo">
+                    <div class="header-column header-column-logo" style="max-width: 250px !important;">
                         <div class="header-row">
                             <div class="header-logo">
-                                <a href="demo-business-consulting-2.html">
+                                <a href="#">
                                     <img alt="Porto" width="123" src="{{asset('/image/logo-2.png')}}">
                                 </a>
                             </div>
                         </div>
                     </div>
+                        <div class="header-row contact-information">
+                            <div class="d-flex flex-nowrap flex-lg-wrap align-items-start align-items-lg-center w-100 flex-column flex-lg-row mt-4 mt-lg-0 custom-container-info-socials">
+                                <ul class="nav nav-pills justify-content-between h-100 mb-4 mb-lg-0">
+                                    <li class="nav-item d-inline-flex flex-column flex-lg-row">
+                                        <div>
+                                            <div>
+                                                <div class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary text-uppercase justify-content-start mb-2 mb-lg-0">
+                                                        <span class="me-2">
+                                                            <img width="15" height="18" src="img/demos/business-consulting-3/icons/phone.svg" alt="Phone">
+                                                        </span>
+                                                        <a class="text-color-secondary text-color-hover-primary text-decoration-none" href="tel:021-29552686">021 2955 2686</a>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div class="footer-nav-email px-0 font-weight-normal d-flex align-items-center justify-content-start mb-2 mb-lg-0">
+                                                    <span class="me-2">
+                                                        <img width="15" height="18" src="img/demos/business-consulting-2/icons/mail.svg" alt="Mail">
+                                                    </span>
+                                                    <a class="text-color-secondary text-color-hover-primary text-decoration-none" href="mailto:business@portotheme.com"> info@dasaoptima.com</a>
+											    </div>
+                                            </div>
+                                        </div>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
                     <div class="header-column header-column-nav-menu justify-content-end">
                         <div class="header-row">
                             <div class="header-nav header-nav-links order-2 order-lg-1">
