@@ -11,20 +11,20 @@
                 height: 600px;
                 margin-bottom: 10px;
             }
+
+            .responsive-iframe {
+                max-width: 300px;
+            }
         }
     </style>
 @endsection
 @section('page-content')
     <div class="container py-5">
         <div class="row">
-            <div class="col-12 col-md-6 maps">
-                <iframe src="https://storage.googleapis.com/maps-solutions-fmc5b3bxkt/locator-plus/2pps/locator-plus.html"
-                        width="100%" height="100%"
-                        style="border:2px;"
-                        loading="lazy">
-                </iframe>
+            <div class="col-12 col-lg-6 maps d-flex mb-sm-2">
+                <iframe class="responsive-iframe" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15863.156847456343!2d106.7979965!3d-6.291411699999982!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ede2e80760b7%3A0x619366be3c646701!2sDasa%20Optima%20Consulting!5e0!3m2!1sid!2sid!4v1691126227365!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-lg-6">
                 <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>Get in Touch</p>
                 <h2 class="text-color-secondary font-weight-bold mb-3 text-capitalize mb-2 custom-letter-spacing-2 custom-text-1 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Send Us a Message</h2>
 
