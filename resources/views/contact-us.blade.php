@@ -26,7 +26,7 @@
                     <iframe class="responsive-iframe" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15863.156847456343!2d106.7979965!3d-6.291411699999982!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69ede2e80760b7%3A0x619366be3c646701!2sDasa%20Optima%20Consulting!5e0!3m2!1sid!2sid!4v1691126227365!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="row p-2">
-                    <p class="mt-2 p-0 text-4 line-height-9 text-justify">Our diversified background comes from complex experiences,- and years of journey in serving small and medium enterprises to high-profile clients. Our expertise span from a wide range of practices and industries covering tax compliance, tax advisory, tax dispute, tax review, transfer pricing, and training services.</p>
+                    <p class="mt-2 p-0 text-4 line-height-9 text-justify">Contact us for more information and details about our services. We can work with you so your taxes are filed correctly and ensure they are always filed correctly in the future.Contact us for more information and details about our services. We can work with you so your taxes are filed correctly and ensure they are always filed correctly in the future.</p>
                 </div>
             </div>
             <div class="col-12 col-lg-6">
