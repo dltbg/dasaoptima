@@ -197,28 +197,12 @@
                             <ul class="nav nav-pills justify-content-between h-100 mb-4 mb-lg-0">
                                 <li class="nav-item d-inline-flex flex-column flex-lg-row">
                                     <div>
-                                        <div class="mb-2">
+                                        <div style="margin-top: 2px">
                                             <span class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary font-weight-semibold text-uppercase justify-content-start mb-2 mb-lg-0">
                                                     <span>
                                                         <img width="15" height="18" src="/img/demos/business-consulting-3/icons/phone.svg" alt="Phone">
                                                     </span>
                                                     <a class="font-weight-bold text-color-secondary text-color-hover-primary text-decoration-none" href="tel:021-29552686">021 2955 2686</a>
-                                            </span>
-                                        </div>
-                                        <div class="mb-2">
-                                            <span class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary font-weight-semibold text-uppercase justify-content-start mb-2 mb-lg-0">
-                                                    <span>
-                                                        <img width="15" height="18" src="/img/demos/business-consulting-2/icons/phone.svg" alt="Phone">
-                                                    </span>
-                                                    <a class="font-weight-bold text-color-secondary text-color-hover-primary text-decoration-none" href="https://wa.link/as17vp">+62 813 8700 2008</a>
-                                            </span>
-                                        </div>
-                                        <div>
-                                            <span class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary font-weight-semibold text-uppercase justify-content-start mb-2 mb-lg-0">
-                                                    <span>
-                                                        <img width="15" height="18" src="/img/demos/business-consulting-2/icons/phone.svg" alt="Phone">
-                                                    </span>
-                                                    <a class="font-weight-bold text-color-secondary text-color-hover-primary text-decoration-none" href="https://wa.link/5qvnvc">+62 813 7733 2292</a>
                                             </span>
                                         </div>
                                     </div>
