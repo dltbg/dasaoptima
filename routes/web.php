@@ -37,6 +37,10 @@ Route::get('/blog-news/brief-overview-of-mof-regulation-no-66-2023', function ()
     return view('blog.post');
 })->name('blog-post');
 
+Route::get('/blog-news/indonesias-benefit-tests-preliminary-steps-in-applying-the-arms-length-principle-for-intercompany-service-transactions', function () {
+    return view('blog.post1');
+})->name('blog-post-1');
+
 Route::get('/career', function () {
     return view('career');
 })->name('career');

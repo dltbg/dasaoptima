@@ -1,8 +1,8 @@
 @extends('layouts.master')
 @section('blog', 'active')
 @section('page-meta')
-    <title>Brief Overview of MoF Regulation No 66/2023</title>
-    <meta name="keywords" content="mof Regulation" />
+    <title>Indonesia’s Benefit Tests: Preliminary Steps in Applying the Arm’s Length Principle for Intercompany Service Transactions</title>
+    <meta name="keywords" content="Arm’s Length Principle" />
     <meta name="author" content="Dasa Optima">
 @endsection
 
@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
-                        <h1 class="font-weight-bold text-9 text-color-secondary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100">Brief Overview of MoF Regulation No 66/2023</h1>
+                        <h1 class="font-weight-bold text-9 text-color-secondary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100">Indonesia’s Benefit Tests: Preliminary Steps in Applying the Arm’s Length Principle for Intercompany Service Transactions</h1>
                     </div>
                     <div class="col-md-4 order-1 order-md-2 align-self-center">
                         <ul class="breadcrumb d-block text-md-end appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
@@ -32,20 +32,28 @@
                     <article>
                         <div class="card border-0 border-radius-0 mb-5 box-shadow-1">
                             <div class="card-body p-4 z-index-1">
-                                <p class="text-uppercase text-1 mb-3 text-color-default"><time pubdate datetime="2023-08-04">4 AUG 2023</time> <span class="opacity-3 d-inline-block px-2">|</span> Dasaoptima </p>
+                                <p class="text-uppercase text-1 mb-3 text-color-default"><time pubdate datetime="2023-08-04">4 OCT 2023</time> <span class="opacity-3 d-inline-block px-2">|</span> Dasaoptima </p>
 
                                 <div class="post-image pb-4">
-                                    <img class="card-img-top border-radius-0" src="https://images.pexels.com/photos/6693661/pexels-photo-6693661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+                                    <img class="card-img-top border-radius-0" src="https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80" alt="Card Image">
                                 </div>
 
                                 <div class="card-body p-0 text-justify">
-                                    <p>The Indonesian Government has issued MoF Regulation No 66/2023 which came into force on July 1, 2023, regarding the Income Tax Treatment for compensation or remuneration related to work or services rendered, received in the form of benefit-in-kind (BIK). Deductible BIKs are BIKs that represent compensation related to:</p>
+                                    <p>The Indonesian Government, in PMK Number 22/03/2020 (”PMK-22/2020”), emphasized the significance of 'preliminary steps' when applying the arm's length principle to service transactions involving related parties.</p>
+                                    <p>In short, the preliminary steps are part of a series of tests to determine whether the price for services or goods in a transaction between related parties are conducted at fair market prices or at arm’s length. However, before discussing whether or not the price is at arm’s length, the preliminary steps need to be conducted first.</p>
+                                    <p>Previously, PER-32/2011, which was an update from PER-43/2010, stated a similar concept that "to test a service transaction, we must ensure whether the service has actually been provided before we test the price." The 2022 OECD Transfer Pricing Guidelines (“OECD TPG”) paragraph 7.6 provided a more concrete concept of ‘benefit tests’ in which it is required to determine if the service being rendered indeed confers economic benefits to the service recipient.</p>
+                                    <p>PMK-22/2020 now clearly stipulates that the application of the arm's length principle in a transaction between related parties must include preliminary steps. In accordance with the OECD TPG’s benefit tests, Article 14 of PMK-22/2020 lists the preliminary steps required to demonstrate that the service:</p>
                                     <ul>
-                                        <li>Employment relationships between employers and employees</li>
-                                        <li>Service transactions between taxpayers</li>
+                                        <li>has been provided by the service provider and received by the service recipient;</li>
+                                        <li>is a necessity to the service recipient;</li>
+                                        <li>has economic benefits to the service recipient;</li>
+                                        <li>is not a shareholder activity;</li>
+                                        <li>is not a passive association;</li>
+                                        <li>is not a duplicative service;</li>
+                                        <li>is not a service that provides incidental benefits; and</li>
+                                        <li>in case of an on-call service, is not a service that may be obtained from independent party without a prior on-call contract.</li>
                                     </ul>
-                                    <p>The cost reimbursement or compensation in the form of BIKs in connection to work and/or services provided can be deducted from gross income to determine the taxable income of the employer or provider of BIKs to the extent that it is a cost of obtaining, collecting and maintaining income (3M). On the other hand, for recipients, BIKs are the object of income tax.</p>
-                                    <p>Under MOF Regulation 66/2023, starting on 1 July 2023 employers are obliged to withhold income tax on BIKs that exceed the value limits. All BIKs received in 2022 by employees or service providers are treated as non-taxable objects. Tax of BIKs received from 1 January 2023 to 30 June 2023 that have not been withheld by the employers must be calculated, paid and reported by the recipient in their annual individual income tax return.</p>
+                                    <p>The implementation of preliminary steps for service transactions in transfer pricing is a crucial step for ensuring fairness and compliance within Indonesia's tax regulations. Such a test is indispensable in a dynamic business environment, where related-party service transactions can significantly impact a company's financial performance and tax liabilities. By conducting a benefit test, the Indonesian government can scrutinize whether these transactions genuinely contribute economic benefits to the service recipient, thus preventing the manipulation of prices to reduce taxable income. This safeguard is not only essential for maintaining tax revenue but also for fostering a transparent and equitable business environment that encourages foreign investments and international trade. The preliminary steps, as outlined in PMK-22, is a vital tool for promoting fiscal integrity, protecting the interests of all stakeholders, and ensuring that transfer pricing practices align with international standards and best practices.</p>
 
                                     <!-- Go to www.addthis.com/dashboard to customize your tools -->
                                     <div class="addthis_inline_share_toolbox"></div>
