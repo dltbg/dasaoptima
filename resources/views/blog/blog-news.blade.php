@@ -30,13 +30,29 @@
             <div class="row">
                 <div class="col-lg-9">
 
+                <article>
+                        <div class="card border-0 border-radius-0 mb-5 box-shadow-1">
+                            <div class="card-body p-4 z-index-1">
+                                <a href="{{route('blog-post-2')}}">
+                                    <img class="card-img-top border-radius-0" src="https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&amp;w=1000&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Card Image">
+                                </a>
+                                <p class="text-uppercase text-1 mb-3 pt-1 text-color-default"><time pubdate datetime="2024-01-19">19 Jan 2024</time> <span class="opacity-3 d-inline-block px-2"> | </span> Dasaoptima </p>
+                                <div class="card-body p-0">
+                                    <h4 class="card-title mb-3 text-5 font-weight-bold"><a class="text-color-secondary" href="{{route('blog-post-2')}}">AN UPDATE ON INDONESIAN VALUATION PROCEDURES FOR TAXATION PURPOSES</a></h4>
+                                    <p class="card-text mb-3">The government's recent introduction of Minister of Finance Regulation Number 79 of 2023 (PMK-79/2023) focuses on...</p>
+                                    <a href="{{route('blog-post-2')}}" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">Read More +</a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+
                     <article>
                         <div class="card border-0 border-radius-0 mb-5 box-shadow-1">
                             <div class="card-body p-4 z-index-1">
                                 <a href="{{route('blog-post-1')}}">
                                     <img class="card-img-top border-radius-0" src="https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80" alt="Card Image">
                                 </a>
-                                <p class="text-uppercase text-1 mb-3 pt-1 text-color-default"><time pubdate datetime="2023-10-4">4 OCT 2023</time> <span class="opacity-3 d-inline-block px-2"> | </span> Dasaoptima </p>
+                                <p class="text-uppercase text-1 mb-3 pt-1 text-color-default"><time pubdate datetime="2023-10-4">4 Oct 2023</time> <span class="opacity-3 d-inline-block px-2"> | </span> Dasaoptima </p>
                                 <div class="card-body p-0">
                                     <h4 class="card-title mb-3 text-5 font-weight-bold"><a class="text-color-secondary" href="{{route('blog-post-1')}}">Indonesia’s Benefit Tests: Preliminary Steps in Applying the Arm’s Length Principle for Intercompany Service Transactions</a></h4>
                                     <p class="card-text mb-3">The Indonesian Government, in PMK Number 22/03/2020 (”PMK-22/2020”), emphasized the significance of 'preliminary steps' when...</p>
@@ -61,8 +77,6 @@
                             </div>
                         </div>
                     </article>
-
-
 
 {{--                    <article>--}}
 {{--                        <div class="card border-0 border-radius-0 mb-5 box-shadow-1">--}}

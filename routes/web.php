@@ -41,6 +41,10 @@ Route::get('/blog-news/indonesias-benefit-tests-preliminary-steps-in-applying-th
     return view('blog.post1');
 })->name('blog-post-1');
 
+Route::get('/blog-news/an-update-on-indonesian-valuation-procedures-for-taxation-purposes', function () {
+    return view('blog.post2');
+})->name('blog-post-2');
+
 Route::get('/career', function () {
     return view('career');
 })->name('career');
