@@ -45,6 +45,11 @@ Route::get('/blog-news/an-update-on-indonesian-valuation-procedures-for-taxation
     return view('blog.post2');
 })->name('blog-post-2');
 
+//Unveiling PMK-172: The Impacts on Indonesia’s Transfer Pricing Landscape
+Route::get('/blog-news/unveiling-pmk-172-the-impacts-on-indonesias-transfer-pricing-landscape', function () {
+    return view('blog.post3');
+})->name('blog-post-3');
+
 Route::get('/career', function () {
     return view('career');
 })->name('career');

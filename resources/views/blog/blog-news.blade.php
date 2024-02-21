@@ -31,6 +31,22 @@
                 <div class="col-lg-9">
 
                 <article>
+                    <div class="card border-0 border-radius-0 mb-5 box-shadow-1">
+                        <div class="card-body p-4 z-index-1">
+                            <a href="{{route('blog-post-3')}}">
+                                <img class="card-img-top border-radius-0" src="https://images.pexels.com/photos/4963437/pexels-photo-4963437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image">
+                            </a>
+                            <p class="text-uppercase text-1 mb-3 pt-1 text-color-default"><time pubdate datetime="2024-02-21">21 Feb 2024</time> <span class="opacity-3 d-inline-block px-2"> | </span> Dasaoptima </p>
+                            <div class="card-body p-0">
+                                <h4 class="card-title mb-3 text-5 font-weight-bold"><a class="text-color-secondary" href="{{route('blog-post-3')}}">Unveiling PMK-172: The Impacts on Indonesia’s Transfer Pricing Landscape</a></h4>
+                                <p class="card-text mb-3">The Minister of Finance (MoF) issued regulation No.PMK-172 on December 29, 2023, providing guidelines for implementing the Arm's Length Principle (ALP) on Related-Party Transactions (RPT)....</p>
+                                <a href="{{route('blog-post-3')}}" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">Read More +</a>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+
+                <article>
                         <div class="card border-0 border-radius-0 mb-5 box-shadow-1">
                             <div class="card-body p-4 z-index-1">
                                 <a href="{{route('blog-post-2')}}">
